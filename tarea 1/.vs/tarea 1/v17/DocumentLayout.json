@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soros\\source\\repos\\tarea 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2437EE18-0462-4244-9166-5B749C4A941A}|tarea 1\\tarea 1.csproj|C:\\Users\\soros\\source\\repos\\tarea 1\\tarea 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2437EE18-0462-4244-9166-5B749C4A941A}|tarea 1\\tarea 1.csproj|solutionrelative:tarea 1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2437EE18-0462-4244-9166-5B749C4A941A}|tarea 1\\tarea 1.csproj|c:\\users\\soros\\source\\repos\\tarea 1\\tarea 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2437EE18-0462-4244-9166-5B749C4A941A}|tarea 1\\tarea 1.csproj|solutionrelative:tarea 1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\soros\\source\\repos\\tarea 1\\tarea 1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "tarea 1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\soros\\source\\repos\\tarea 1\\tarea 1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "tarea 1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-19T06:13:16.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\soros\\source\\repos\\tarea 1\\tarea 1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "tarea 1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\soros\\source\\repos\\tarea 1\\tarea 1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "tarea 1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:08:16.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
