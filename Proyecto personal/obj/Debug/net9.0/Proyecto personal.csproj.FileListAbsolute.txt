@@ -1,0 +1,98 @@
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\appsettings.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\Proyecto personal.staticwebassets.runtime.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\Proyecto personal.staticwebassets.endpoints.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\Proyecto personal.exe
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\Proyecto personal.deps.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\Proyecto personal.runtimeconfig.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\Proyecto personal.dll
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\bin\Debug\net9.0\Proyecto personal.pdb
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.AssemblyInfoInputs.cache
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.AssemblyInfo.cs
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.csproj.CoreCompileInputs.cache
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.RazorAssemblyInfo.cache
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.RazorAssemblyInfo.cs
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\scopedcss\bundle\Proyecto personal.styles.css
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\scopedcss\projectbundle\Proyecto personal.bundle.scp.css
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\q1hepcipn2-61n19gt1b8.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\lpib2c46v9-xtxxf3hu2r.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\lshnva5b9y-bqjiyaj88i.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\noxb09wfyx-c2jlpeoesf.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\csxl0zwptl-erw9l3u2r3.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\f6ucvdaujg-aexeepp0ev.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\xyysg6m0kd-d7shbmvgxk.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\rpbr13z06n-ausgxo2sd3.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\rnvfizshvf-k8d9w2qqmf.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\vf4ew4wtaz-cosvhxvwiu.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\0pciqyoflc-ub07r2b239.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\q19995ecyj-fvhpjtyr6v.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\0sm7owxs1q-b7pk76d08c.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\q51flq44of-fsbi9cje9m.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\kosgogh0tt-rzd6atqjts.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\p4ohc47tew-ee0r1s7dh0.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\6ak365gnfw-dxx9fxp4il.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\55jgdcorfi-jd9uben2k1.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\d72oaxa72x-khv3u5hwcm.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\wp5jvqs6fz-r4e9w2rdcm.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\mttiogj5bk-lcd1t2u6c8.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\xy67dzy2vh-c2oey78nd0.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\rs66irfc3j-tdbxkamptv.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\8tje6d4le1-j5mq2jizvt.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\db3rkho9ig-06098lyss8.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\4jnso9uiao-nvvlpmu67g.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\wr9qa8exkw-s35ty4nyc5.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\gupnmh13ut-pj5nd1wqec.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\6gx2bchyrg-46ein0sx1k.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\v9dh4fhpkm-v0zj4ognzu.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\lzf4e1sxnq-37tfw0ft22.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\33ebkvnlol-hrwsygsryq.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\uq97ejcke3-pk9g2wxc8p.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\1bejwqi1tr-ft3s53vfgj.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\45y3leam9d-6cfz1n2cew.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\ilk7fkjq66-6pdc2jztkx.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\45jnlpt8j0-493y06b0oq.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\ck6exxvw7k-iovd86k7lj.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\886hwfwa81-vr1egmr9el.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\94dlv6mcrt-kbrnm935zg.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\eqac0je17g-jj8uyg4cgr.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\h0he17qjr6-y7v9cxd14o.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\c8g0h3zpab-notf2xhcfb.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\sl7rrrlekm-h1s4sie4z3.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\ex9935yfse-63fj8s7r0e.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\6we7pbushj-0j3bgjxly4.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\xbuikaieds-47otxtyo56.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\cmqt7jbxba-4v8eqarkd7.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\ilxiglf8g5-356vix0kms.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\cgxwvn9n8y-83jwlth58m.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\nrgr2zwb9v-mrlpezrjn3.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\32p5j5rnrl-lzl9nlhx6b.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\iu5d88spjf-ag7o75518u.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\bv8yekd61y-x0q3zqp4vz.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\7pp8i7pcsq-0i3buxo5is.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\wmb2x3eai7-o1o13a6vjx.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\uacps992j6-ttgo8qnofa.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\bxdjcjql13-2z0ns9nrw6.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\ikkxlal7hs-muycvpuwrr.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\pc7hwdfps9-87fc7y1x7t.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\thza7r6iaf-mlv21k5csn.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\8tzy90fzej-rkceyrvn4c.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\q39reh1wxk-rkceyrvn4c.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets\msbuild.Proyecto personal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets\msbuild.Proyecto personal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets\msbuild.build.Proyecto personal.props
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto personal.props
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Proyecto personal.props
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.dll
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\refint\Proyecto personal.dll
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.pdb
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\Proyecto personal.genruntimeconfig.cache
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\ref\Proyecto personal.dll
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyecto personal\obj\Debug\net9.0\compressed\57vt8fkxs2-g7xw612kxk.gz
