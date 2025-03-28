@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|c:\\users\\soros\\onedrive\\desktop\\proyectos\\proyectsoftware\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329C0FA6-CBDB-4D89-B573-57AA886B60E0}|Proyectsoftware.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-28T10:05:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:04:13.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T03:24:59.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T02:54:21.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T02:52:20.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T02:51:45.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T02:51:43.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\Home\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Home.cshtml",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\Home\\Home.cshtml",
+              "RelativeToolTip": "Views\\Home\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T02:49:53.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T02:51:14.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\soros\\OneDrive\\Desktop\\Proyectos\\Proyectsoftware\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:48:43.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
