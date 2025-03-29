@@ -1,11 +1,23 @@
-
+﻿
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.EntityFrameworkCore;
+using Proyectsoftware.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
 
+// Configuraci�n de la base de datos con Entity Framework
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
+
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Add services to the container.
+
+builder.Services.AddAuthorization();
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "Proyectsoftware.Controllers.PruebaController",
+    "Method": "Get",
+    "RelativePath": "api/prueba",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
