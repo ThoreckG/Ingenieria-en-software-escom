@@ -148,9 +148,7 @@ C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\Proye
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\scopedcss\bundle\Proyectsoftware.styles.css
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\scopedcss\projectbundle\Proyectsoftware.bundle.scp.css
-C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\compressed\7kl0jhmj1n-g7xw612kxk.gz
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\compressed\mitbgeklrk-61n19gt1b8.gz
-C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\compressed\kaxejwbheo-xtxxf3hu2r.gz
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\compressed\o460yzjtal-bqjiyaj88i.gz
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\compressed\ldvyal50gs-c2jlpeoesf.gz
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\compressed\r29lbdz3ds-erw9l3u2r3.gz
@@ -227,3 +225,6 @@ C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\refin
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\Proyectsoftware.pdb
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\Proyectsoftware.genruntimeconfig.cache
 C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\ref\Proyectsoftware.dll
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\compressed\kaxejwbheo-v55wwt7tg7.gz
+C:\Users\soros\OneDrive\Desktop\Proyectos\Proyectsoftware\obj\Debug\net9.0\compressed\7kl0jhmj1n-34z9qsheaz.gz

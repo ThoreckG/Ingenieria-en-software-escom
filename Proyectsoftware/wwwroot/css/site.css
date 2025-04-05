@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+
+
 .blurfilter {
     position: fixed; /* Asegura que esté fijado a la pantalla */
     top: 0;
@@ -33,7 +35,6 @@
 
 
 .space {
-
     background-image: url('/images/space.jpg');
     width: 100vw;
     height: 100vh;
@@ -56,21 +57,12 @@
 
 
 body {
-    width: 100vw;
-    height: 100vh;
-    font-family: Arial, Helvetica, sans-serif;
-    letter-spacing: 0.02em;
-    font-weight: 400;
     -webkit-font-smoothing: antialiased;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
     background-position: center;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: aqua;
-    
+    flex-direction: column;
+    justify-content: center;  
 }
 
 
@@ -147,6 +139,7 @@ body {
 }
 
     .input-container input {
+        margin: 0.5rem;
         width: 100%;
         padding: 12px;
         border: none;
@@ -181,7 +174,7 @@ body {
 
 /* Link de registro */
 .register-link {
-    margin-top: 25px;
+    margin-top: 15px;
     font-size: 16px;
     color: #ffd700;
     text-decoration: none;
@@ -193,3 +186,142 @@ body {
         text-decoration: underline;
         color: #ff00ff;
     }
+
+
+
+* {
+    box-sizing: border-box;
+}
+   
+
+
+
+
+
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+h2,
+h3,
+a {
+    color: #34495e;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.letters {
+    margin: 0px;
+    font-size: 1em;
+    padding: 10px 15px;
+    text-transform: uppercase;
+    text-align: center;
+    display: block;
+    margin-top: 2rem;
+}
+
+
+
+.logo {
+    margin: 0;
+    font-size: 1.45em;
+}
+
+.main-nav {
+    margin-top: 5px;
+}
+
+    .logo a,
+    .main-nav a {
+        padding: 10px 15px;
+        text-transform: uppercase;
+        text-align: center;
+        display: block;
+    }
+
+    .main-nav a {
+        color: #34495e;
+        font-size: .99em;
+    }
+
+        .main-nav a:hover {
+            color: #718daa;
+        }
+
+.card{
+    background-color: red;
+    border-radius: 14px;
+    box-shadow: 0 4px 30px rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(1.5px);
+}
+
+.header {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 14px;
+    box-shadow: 0 4px 30px rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(1.5px);
+
+
+
+    -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    height: 2rem;
+    margin-bottom: 2rem;
+    padding: 1.5rem 1rem 1.5rem 1rem;
+    align-items: center;
+    display: flex;
+
+}
+
+
+/* ================================= 
+  Media Queries
+==================================== */
+
+
+
+
+@media (min-width: 769px) {
+    .header,
+    .main-nav {
+        display: flex;
+    }
+
+    .header {
+        flex-direction: column;
+        align-items: center;
+        .header
+
+{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1150px;
+}
+
+}
+}
+
+@media (min-width: 1025px) {
+    .header {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+}
+
+
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+    display: none; /* Por defecto, las alertas no se muestran */
+}

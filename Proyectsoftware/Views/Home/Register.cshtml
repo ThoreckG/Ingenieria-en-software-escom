@@ -8,20 +8,31 @@
 
 <div class="space"></div>
 <!-- Resto del contenido de la página, que no tendrá el desenfoque -->
-<div class="content">
+<div class="blurred-box">
+    <div class="user-login-box">
+        <div class="user-icon"></div>
+        <h1 class="user-name">REGISTER</h1>
+        <div class="input-container">
+            <!-- Formulario con validación -->
+            <form action="/Home/Home" method="post" id="register-form">
+                <input type="text" id="nombre" name="nombre" class="form-control" placeholder="Usuario" required>
+                <div id="nombre-error" class="error-message"></div>
 
+                <input type="email" id="email" name="email" class="form-control" placeholder="Correo electrónico" required>
+                <div id="email-error" class="error-message"></div>
 
-    <div class="blurred-box">
-        <div class="user-login-box">
-            <div class="user-icon"></div>
-            <h1 class="user-name">REGISTER</h1>
-            <div class="input-container">
-                <input type="text" name="username" placeholder="Usuario">
-                <input type="text" name="username" placeholder="correo">
-                <input type="password" name="password" placeholder="Contraseña">
-            </div>
-            <a href="/Home/Home">  <button class="login-button">Registrarse</button></a>
+                <input type="password" id="password" name="password" class="form-control" placeholder="Contraseña" required>
+                <div id="password-error" class="error-message"></div>
+
+                <!-- Botón de registro -->
+                <button type="submit" id="btnregistrar" class="login-button">Registrarse</button>
+            </form>
             <a href="/home/index" class="register-link">ya tengo una cuenta</a>
         </div>
     </div>
 </div>
+
+
+
+
+

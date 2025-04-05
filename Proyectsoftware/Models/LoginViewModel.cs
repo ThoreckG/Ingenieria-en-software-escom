@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Tarea_3.Models
+namespace proyectsoftware.Models
 {
     public class LoginViewModel
     {

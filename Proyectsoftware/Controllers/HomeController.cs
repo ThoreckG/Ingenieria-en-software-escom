@@ -28,6 +28,22 @@ namespace Proyectsoftware.Controllers
             return View();
         }
 
+
+        public IActionResult Usuarios()
+        {
+
+            return View();
+        }
+
+        public IActionResult Contenido()
+        {
+
+            return View();
+        }
+
+
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
